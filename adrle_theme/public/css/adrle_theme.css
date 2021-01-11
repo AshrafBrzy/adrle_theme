@@ -19,8 +19,7 @@
     }
 .sidebar-item {
     font-size: 14px;}
-    .desk-container .desk-body {
-    padding-left: 2rem;}
+    .desk-container .desk-body {/* padding-left: 2rem;*/}
 .onboard-spotlight .link-content {
 	font-weight:500 !important}
 .app-logo {
