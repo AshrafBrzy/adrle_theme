@@ -18,7 +18,7 @@
 
     }
 .sidebar-item {
-    font-size: 14px;}
+    font-size: 14px !important;}
     .desk-container .desk-body {/* padding-left: 2rem;*/}
 .onboard-spotlight .link-content {
 	font-weight:500 !important}
