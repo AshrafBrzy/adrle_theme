@@ -1,10 +1,10 @@
 /*v001 ASHRAF brzy 00201211159150     08072020*/
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 .desk-container .desk-sidebar {
-    position: relative !important;
+   /* position: relative !important;
 
     float: right !important;
-
+*/
 }
 .chart-container .legend-dataset-text {
     direction: ltr;
@@ -13,9 +13,9 @@
     direction: ltr;
 }
 .desk-container .desk-body .desk-page.allow-customization .customize-options {
-/*
-    text-align: left;
-*/
+
+    text-align: right;
+
     }
 .sidebar-item {
     font-size: 14px;}
@@ -75,7 +75,7 @@ small, .small {
 .section-box h4 {
 	color:#3776d8}
 a {
-	color: #6f6f6f;}
+	color: #000;}
 h1, .h1 {
 	font-size: 20px;}
 h4, .h4 {
