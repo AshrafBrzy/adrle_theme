@@ -62,7 +62,7 @@ a.text-primary:hover {
 .text-primary {
 	color: #21529e}
 body {
-	font-family: Roboto, Arial, Droid Sans, sans-serif;
+	/*font-family: Roboto, Arial, Droid Sans, sans-serif;*/
 	background: url(/assets/adrle_theme/images/body-bg7.png);
 	background-color: #f8f8f8;}
 small, .small {
