@@ -187,7 +187,12 @@ h6.uppercase, .h6.uppercase {
 .form-documents h6 {
 	font-size: 14px;
 	color: #3171d0;}
-
+.dt-row {
+    height: 100% !important;
+}
+.dt-instance-1 .dt-cell {
+    height: auto !important;
+}
 /*Icons for Desk*/
 .icon{
     display: inline-block;
