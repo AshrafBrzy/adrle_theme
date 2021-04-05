@@ -169,7 +169,7 @@ h6.uppercase, .h6.uppercase {
 .modal-backdrop {
 	background-color:#f8f8f8!important;}
 .form-signin .form-control {
-	padding:8px 6px !important;
+	/*padding:8px 6px !important;*/
 	margin:20px 0px 15px;
 	border-radius:0px;
 	border:1px solid #ececec}
