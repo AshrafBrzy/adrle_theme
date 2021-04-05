@@ -39,7 +39,12 @@ background: url(/assets/adrle_theme/images/header.png);
 	color: #cccccc;}
 .navbar {
 	min-height: 46px;}
-.navbar-light{
+.page-container {direction: rtl;}
+        .page-container {
+    background-color: transparent !important;
+}
+
+.navbar{
 background: url(/assets/adrle_theme/images/header.png);
 	background-color: #9EA7BB !important;
 	padding: 0.25rem 1rem;}
@@ -183,7 +188,7 @@ h6.uppercase, .h6.uppercase {
 .form-dashboard {
 	background-color: #ffffff !important}
 .layout-main-section{
-	background-color: #ffffff !important}
+	/*background-color: #ffffff !important*/}
 .form-documents h6 {
 	font-size: 14px;
 	color: #3171d0;}
