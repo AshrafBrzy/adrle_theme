@@ -145,7 +145,7 @@ h6.uppercase, .h6.uppercase {
 	padding: 25px !important;
  	border: 1px solid #ececec !important;
 	box-shadow: none !important;
-	border-radius:0px !important}
+	border-radius:50px !important}
 .page-card .page-card-head {
 	border-bottom:none !important}
 .page-card .page-card-head .indicator {
@@ -175,7 +175,12 @@ h6.uppercase, .h6.uppercase {
 	border:1px solid #ececec}
 .form-control:focus {
 	box-shadow: 0 0 0 0.05rem rgba(33, 82, 158, 0.62) !important;}
-
+.for-email-login .page-card, .for-forgot .page-card, .for-login .page-card, .for-signup .page-card {
+    padding-top: 45px;
+    padding-bottom: 45px;
+    background-color: #5a58734a !important;
+    box-shadow: var(--shadow-base);
+}
 /*To hide the Help dropdown button */
 .navbar-right .dropdown-help {
 	display:block}
