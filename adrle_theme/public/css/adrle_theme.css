@@ -39,7 +39,7 @@ background: url(/assets/adrle_theme/images/header.png);
 	color: #cccccc;}
 .navbar {
 	min-height: 46px;}
-.page-container {direction: rtl;}
+/*.page-container {direction: rtl;}*/
         .page-container {
     background-color: transparent !important;
 }
