@@ -33,6 +33,8 @@ background: url(/assets/adrle_theme/images/header.png);
 	border: 1px solid #123263;
 	color: #ffffff;
 	height: 35px;}
+#navbar-breadcrumbs li.disabled a {
+    color: black;}
 .navbar-default .navbar-nav > li > a, .navbar-default .navbar-brand {
 	color: #ffffff;}
 .navbar-default .navbar-nav > li > a:hover {
