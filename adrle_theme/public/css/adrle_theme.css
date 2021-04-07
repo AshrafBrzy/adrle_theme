@@ -34,7 +34,12 @@ background: url(/assets/adrle_theme/images/header.png);
 	color: #ffffff;
 	height: 35px;}
 #navbar-breadcrumbs li.disabled a {
-    color: black;}
+    color: black !important;}
+.for-email-login .sign-up-message, .for-forgot .sign-up-message, .for-login .sign-up-message, .for-signup .sign-up-message {
+    margin-top: 3rem !important;
+    color: var(--text-light);
+    font-size: var(--text-md);
+}
 .navbar-default .navbar-nav > li > a, .navbar-default .navbar-brand {
 	color: #ffffff;}
 .navbar-default .navbar-nav > li > a:hover {
