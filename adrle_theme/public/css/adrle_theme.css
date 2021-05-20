@@ -54,6 +54,7 @@ background: url(/assets/adrle_theme/images/header.png);
 .navbar{
 background: url(/assets/adrle_theme/images/header.png);
 	background-color: #9EA7BB !important;
+	direction: ltr;
 	padding: 0.25rem 1rem;}
 .navbar-light .navbar-nav .nav-link{
 	color: #ffffff;}
