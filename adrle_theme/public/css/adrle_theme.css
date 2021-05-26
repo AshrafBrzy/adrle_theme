@@ -50,8 +50,11 @@ background: url(/assets/adrle_theme/images/header.png);
         .page-container {
     background-color: transparent !important;
 }
-
+.widget.links-widget-box .link-item .link-content {
+    flex: unset !important ;
+}
 .navbar{
+        direction: ltr;
 background: url(/assets/adrle_theme/images/header.png);
 	background-color: #9EA7BB !important;
 	direction: ltr;
